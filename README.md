@@ -1,4 +1,4 @@
-# BrTU
+# BrnTmr
 ## Comparitive analysis of traditional ML models for Brain Tumor Detection against the Federated Learning Approach
 
 This project aims to provide a comprehensive comparision between the performances of the traditional ML models and Federated Learning approaches for the Brain Tumor detection and recognition tasks. The models were trained for four different classes i.e. glioma, meningioma, no tumor and pituitiary. The models essentials helps to detect the existenceof a tumor and which one if there exists one.
